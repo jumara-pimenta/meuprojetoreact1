@@ -8,10 +8,6 @@ O intuito dessa atividade é criar um arquivo react, exportar nele um arquivo qu
 
 ## ⚙📲 Tecnologias utilizadas 
 
-Para a construção do projeto foram utilizadas as seguintes ferramentas: 
-HTML 5
-JavaScript
-React.js
-Node.js
+Para a construção do projeto foram utilizadas as seguintes ferramentas: HTML 5, JavaScript, React.js e Node.js.
 
 O projeto ainda precisa de alterações, incluindo a estilização do mesmo.
